@@ -10,9 +10,9 @@ This **Movie Recommender System** is built using **cosine similarity** on the **
 
 ## 🚀 How It Works  
 1. The dataset is preprocessed to extract relevant features (title, genres, cast, crew, keywords).  
-2. A TF-IDF vectorizer is used to convert textual data into numerical form.  
+2. A Bag-of-Words method is used to convert textual data into numerical form.  
 3. Cosine similarity is calculated between movies to find the most similar ones.  
 4. The system returns a list of recommended movies based on user input.
-5. 
+   
 ## 🔗 ACCESS FROM HERE  
 [Click Here](https://movierecommendersystem-gyac26e9wnf9ebtycspgb4.streamlit.app/)
